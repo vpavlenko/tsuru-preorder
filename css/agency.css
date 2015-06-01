@@ -880,3 +880,7 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #444444;
 }
+
+.navbar-header img {
+    height: inherit;
+}
